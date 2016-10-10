@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474968207 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\group picker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"main.h"
+
+1474968249 c:\users\svu\google drev\courses\programming\program examples\programming_i\group picker\main.h
+
