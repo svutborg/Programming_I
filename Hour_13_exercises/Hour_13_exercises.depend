@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475477817 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\hour_13_exercises\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
