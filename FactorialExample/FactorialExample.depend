@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476773872 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\factorialexample\main.c
+	<stdio.h>
+	<stdlib.h>
+
