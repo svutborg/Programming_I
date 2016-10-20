@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476878569 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\fileediting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
