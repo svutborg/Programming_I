@@ -24,6 +24,7 @@ int main()
         printf("%d at %p\n", *(pointer+j), pointer+j);
     }
 
+    // free allocated memory when you are done with it
     free(pointer);
 
     return 0;
