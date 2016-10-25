@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477384629 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\memoryallocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
