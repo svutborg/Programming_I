@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477402489 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\multiple_files\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"my_math.h"
+
+1477401077 c:\users\svu\google drev\courses\programming\program examples\programming_i\multiple_files\main.h
+
+1477402599 c:\users\svu\google drev\courses\programming\program examples\programming_i\multiple_files\my_math.h
+

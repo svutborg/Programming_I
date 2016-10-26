@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477408841 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\examplecleaner\editor.c
+	<stdio.h>
+	<stdlib.h>
+	"editor.h"
+
+1477408386 c:\users\svu\google drev\courses\programming\program examples\programming_i\examplecleaner\editor.h
+
+1477406072 source:c:\users\svu\google drev\courses\programming\program examples\programming_i\examplecleaner\main.c
+	<stdio.h>
+	<stdlib.h>
+	"editor.h"
+
